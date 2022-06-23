@@ -1,11 +1,13 @@
 ### HELLO 👋 I am Jayakumar S and upnext is a little something about the current me ...
-- 🔭 I’m currently working on **Online Course platform** from a **Web3 engineer** point of view trying to integrate with existing platforms link the platform is on the right but that said ,it is still under construction ([Website](https://marketplace1-jk.vercel.app/marketplace)).   
-- 🌱 I’m currently learning **De-Fi** ,__Metaverze__,**Zero Knowledge Proofs** ,**NFT's** and most importantly **Core Blockchain**.
-- 📫 How to reach me: --**[Linkedin](http://www.linkedin.com/in/jayakumar-sathayadhran-8b70a819b) -- [Mail](mailto:jayakumargowtham2812@gmail.com) -- [Resume](https://drive.google.com/file/d/12hH0itC_kHRJRNnZGy7o4eIqR6JNcwEW/view?usp=sharing) --[Personal Website](https://jayakumar-portfolio-block.vercel.app/)**
+- I'm currently learning Rust, DSA and EVM in depth.  
+- I know the basics web2 development and have done few projects in it.
+- My current projects and research are related to web3.
+- I have recently started my technical blogs at [Medium](https://medium.com/@jayakumargowtham2812).
+- How to reach me : --**[Linkedin](http://www.linkedin.com/in/jayakumar-sathayadhran-8b70a819b) -- [Mail](mailto:jayakumargowtham2812@gmail.com) -- [Resume](https://drive.google.com/file/d/1iPo1yzitImR8vsbke79OHZiBFeEbwVgW/view?usp=sharing) --[Personal Website](https://jayakumar-portfolio-block.vercel.app/) -- [Medium](https://medium.com/@jayakumargowtham2812).** 
 
-**Languages:**  **Solidity, JavaScript, Python**, Node js, MySQL, MongoDB, TypeScript, React js, HTML5, CSS3.
+**Languages:**  **Solidity, JavaScript, Python**, Node js, Next js(intermediate).
 <br>
-**Technologies/Frameworks:**  **GitHub, Web3 js, Ether js**, Web3 Py,**Truffle , Hardhat, Brownie, Ganache, Remix**, Geth.
+**Tools/Frameworks:**  **Web3 js, Ether js**,**Truffle , Hardhat,Foundry, Ganache, Remix.**
 <br>
 <br>
 Here is my languages used stats on github
