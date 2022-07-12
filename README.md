@@ -1,6 +1,6 @@
 ### HELLO 👋 I am Jayakumar S and upnext is a little something about the current me ...
 - I'm currently learning Rust, DSA and EVM in depth.  
-- I know the basics web2 development and have done few projects in it.
+- I know the basics of web2 development and have done few projects in it.
 - My current projects and research are related to web3.
 - I have recently started my technical blogs at [Medium](https://medium.com/@jayakumargowtham2812).
 - How to reach me : --**[Linkedin](http://www.linkedin.com/in/jayakumar-sathayadhran-8b70a819b) -- [Mail](mailto:jayakumargowtham2812@gmail.com) -- [Resume](https://drive.google.com/file/d/1iPo1yzitImR8vsbke79OHZiBFeEbwVgW/view?usp=sharing) --[Personal Website](https://jayakumar-portfolio-block.vercel.app/) -- [Medium](https://medium.com/@jayakumargowtham2812).** 
