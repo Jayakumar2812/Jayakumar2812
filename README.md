@@ -13,7 +13,7 @@
 <br>
 Here is my languages used stats on github
 
-![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayakumar2812&layout=compact)
+![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayakumar2812&layout=compact&langs_count=8)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jayakumar2812&show_icons=true&theme=merko&count_private=true)
 <br>
 
