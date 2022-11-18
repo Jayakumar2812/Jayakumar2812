@@ -1,4 +1,5 @@
-### HELLO 👋 I am Jayakumar S and upnext is a little something about the current me ...
+### HELLO 👋 I am Jayakumar S and upnext is a little something about the current me ..
+- Primarily Solidity Engineer.
 - I'm currently learning Rust, DSA and EVM in depth.  
 - I know the basics of web2 development and have done few projects in it.
 - My current projects and research are related to web3.
