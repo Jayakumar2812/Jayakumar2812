@@ -13,8 +13,6 @@
 <br>
 Here is my languages used stats on github
 
-[comment]: <> ![Languages Used](https://github-readme-stats-jk-2812-p4zet5jeo-jayakumar2812.vercel.app/api/top-langs/?username=Jayakumar2812&layout=compact&langs_count=8)
-[comment]: <> ![Anurag's GitHub stats](https://github-readme-stats-jk-2812-p4zet5jeo-jayakumar2812.vercel.app/api?username=Jayakumar2812&show_icons=true&theme=merko&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayakumar2812)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayakumar2812)](https://github.com/anuraghazra/github-readme-stats)
 <br>
