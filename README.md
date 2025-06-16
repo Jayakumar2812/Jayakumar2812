@@ -1,4 +1,4 @@
-### HELLO 👋 I am Jayakumar S and upnext is a little something about the current me ..
+### HELLO 👋 I am Jayakumar and upnext is a little something about the current me ..
 - I'm a Smart contract Research Engineer.
 - Working on automation security in web3.
 - Beginner in ZK tech.
