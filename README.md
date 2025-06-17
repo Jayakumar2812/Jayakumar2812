@@ -8,9 +8,9 @@
 
  - [Open source contributions repo](https://github.com/Jayakumar2812/Open_source_Contribution)
 
-**Languages:**  **Solidity, JavaScript, Python, Rust**, Node js, Next js(intermediate).
+**Languages:**  **Solidity, JavaScript, Python, Rust**, Node js, Next js(intermediate) , SQL , Mongo DB , Arango DB.
 <br>
-**Tools/Frameworks:**  **Web3 js, Ether js**,**Truffle , Hardhat,Foundry, Ganache, Remix.**
+**Tools/Frameworks:**  Web3 js, Ether js, Hardhat , Foundry, Remix , Halmos , Slither , Certora , Echdina , Viem. 
 <br>
 
 
